@@ -1,4 +1,4 @@
-This is my solution to the **Simple Database Challenge**.
+This is my solution to the [**Simple Database Challenge**](https://www.thumbtack.com/challenges/simple-database).
 
 I created a test file early on in the project in order to test it with every meaningfull change, and check that nothing broke.
 
